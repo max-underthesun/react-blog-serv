@@ -1,2 +1,4 @@
 react-blog-serv.sublime-project
 react-blog-serv.sublime-workspace
+
+/node_modules/*
