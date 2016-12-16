@@ -1,8 +1,6 @@
 require('babel-register');
 
-const result = require('./render').default;
-
-// console.log(result);
+var result = require('./render').default;
 
 var express = require('express');
 var application = express();
